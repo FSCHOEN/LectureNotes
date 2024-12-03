@@ -10,15 +10,6 @@ Umrechner für Binär-, Oktal-, Dezimal- und Hexadezimalsystem [German]
 IEEE-754 Gleitkommazahlen Konverter (von Dezimal) [German] 
 - https://zahlensysteme-rechner.de/ieee-754-konverter/
 
-## Assembly 
-Online Assembly Compiler
-- https://www.tutorialspoint.com/compile_assembly_online.php
-- https://onecompiler.com/assembly/
-- https://www.mycompiler.io/de/new/asm-x86_64
-
-Online Assembler & Dissambler
-- https://shell-storm.org/online/Online-Assembler-and-Disassembler
-
 ## Linux
 Online Linux Terminal
 - https://www.terminaltemple.com/
