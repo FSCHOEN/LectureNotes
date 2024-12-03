@@ -26,6 +26,12 @@ Online Linux Terminal
 Online Run Bash Scripts
 - https://rextester.com/l/bash_online_compiler
 
+## Short Info Videos
+- Technology Size Comparison https://www.youtube.com/watch?v=gfOD-Qpl6eg
+- Format Wars ASCII vs EBCDIC https://www.youtube.com/watch?v=3kXLHLUhV5Q
+- How do SSDs Work Explained in 3 min https://www.youtube.com/watch?v=E7Up7VuFd8A
+- Linux Directories Explained in 100 Seconds https://www.youtube.com/watch?v=42iQKuQodW4
+
 # IT Security
 
 ## Challenges
