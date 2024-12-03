@@ -30,7 +30,7 @@ Online Run Bash Scripts
 - SANS Holiday Hack Challenge (seasonal) - https://www.sans.org/mlp/holiday-hack-challenge-2024/
 - Advent of Code (seasonal) - https://adventofcode.com/
 
-## Educational Platforms / Capture the Flaf
+## Educational Platforms / Capture the Flag
 - Try Hack Me https://tryhackme.com
 - Hack The Box https://www.hackthebox.com
 
